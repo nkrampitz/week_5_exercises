@@ -1,7 +1,7 @@
 ---
-# title: "Week_5_exercises_Data"
-# author: "J.Blondeau"
-# date: "2024-9-19"
+title: "Week_5_exercises_Data"
+author: "JB, N.Krampitz"
+date: "2024-9-19"
 output: html_document
 bibliography: references.bib
 ---
